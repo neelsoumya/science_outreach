@@ -1,5 +1,6 @@
 # science_outreach
-Science outreach website
+
+Science outreach website where I try to demystify complex scientific topics for a general audience.
 
 ## Material
 
