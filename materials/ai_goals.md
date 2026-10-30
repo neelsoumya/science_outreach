@@ -1,4 +1,4 @@
-![image](images/Goals_as_Cognitive_Shortcuts_Infographic.png)
+![image](../images/Goals_as_Cognitive_Shortcuts_Infographic.png)
 
 - [Video explaining if AI has goals](https://youtube.com/shorts/cqn-JXic8OY)
 
