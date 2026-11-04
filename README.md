@@ -7,6 +7,8 @@ Science outreach website where I try to demystify complex scientific topics for 
 - [The Nobel Prize for Physics in 2026 has been given for a mysterious particle called a neutrino: what is a neutrino and how is it detected?](https://www.youtube.com/shorts/jfp54oKnyIo)
 - [The Nobel Prize for Physiology in 2026 has gone to optogenetics: what is it?](https://www.youtube.com/shorts/oEYPyZPd48c)
 - [Does AI have goals?](https://youtube.com/shorts/cqn-JXic8OY) and a [short written summary](materials/ai_goals.md)
+- [Is there an intelligence test for AI models?](materials/competence_vs_performance.md)
+
 
 
   
