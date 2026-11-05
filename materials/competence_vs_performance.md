@@ -58,6 +58,11 @@ Current intelligence tests do no test for skills such as those that help you gen
 There is a need for tests that probe for precisely this kind of intelligence. For example, can an agent trained in a 2 dimensional environment generalize to a 3 dimensional environment? Can an agent still navigate an environment if there are changes (such as new obstacles)?
 
 
+What will competence look like for such as _test_?
+
+
+## Neologisms
+
 
 
 
