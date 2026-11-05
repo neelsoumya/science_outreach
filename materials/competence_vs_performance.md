@@ -19,6 +19,44 @@ Marcus and Hutter define intelligence as the ability or skill to achieve goals i
 Intelligence can also be _task specific_. That is a penguin has evolved in an environment. It is intelligence enough to solve tasks such as hunting for fish and swimming in water. It does not have a need to run on land or fly. Hence it is not very good in these environments.
 
 
+                    +---------+
+                    |  AGENT  |
+                    | Human,  |
+                    | animal, |
+                    | or AI   |
+                    +---------+
+                         |
+                    takes actions
+                         |
+                         v
+                +----------------+
+                |  ENVIRONMENT   |
+                | Chess, science,|
+                | conversation,  |
+                | physical world |
+                +----------------+
+                         |
+                    provides feedback
+                         |
+                         v
+                   +---------+
+                   |   GOAL  |
+                   | What the |
+                   | agent is |
+                   | trying to|
+                   | achieve  |
+                   +---------+
+                         |
+                         v
+                  Measure success
+                    (REWARD)
+
+## A new test?
+
+Current intelligence tests do no test for skills such as those that help you generalize to a new environment or a new task. This is what Francois Chollet called broad generalization.
+
+There is a need for tests that probe for precisely this kind of intelligence. For example, can an agent trained in a 2 dimensional environment generalize to a 3 dimensional environment? Can an agent still navigate an environment if there are changes (such as new obstacles)?
+
 
 
 
