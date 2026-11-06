@@ -63,6 +63,21 @@ What will competence look like for such as _test_?
 
 ## Neologisms
 
+Machines might use completely new concepts that we have not anticipated. In certain cases, we might need a new vocabulary or new worlds (`neologisms`) to describe these concepts.
 
 
 
+## Connection to explanations
+
+Ultimately our quest for understanding how intelligent a system is maybe connected to a need to [explain](https://www.science.org/doi/abs/10.1126/science.aem0071).
+
+Explanations are like _models_. All of them might be wrong, but some are useful.
+
+Explanations are made, not found (Lombrazo explains in her book [1])
+
+
+## References
+
+[1] We have some explaining to do, Science, Chaz Firestone, 2026 https://www.science.org/doi/abs/10.1126/science.aem0071
+
+ 
