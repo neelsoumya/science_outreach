@@ -73,7 +73,7 @@ Ultimately our quest for understanding how intelligent a system is maybe connect
 
 Explanations are like _models_. All of them might be wrong, but some are useful.
 
-Explanations are made, not found (Lombrazo explains in her book [1])
+>Explanations are made, not found (Lombrazo explains in her book [1])
 
 
 ## References
