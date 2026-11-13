@@ -95,6 +95,9 @@ This can be tested in a number of different environments such as ARC-AGI-3 and t
 
 ## Mechanistic intepretability as a new measure of competence
 
+## Mutate tasks to probe competence
+
+
 ## Towards a more rigorous definition of competence
 
 
