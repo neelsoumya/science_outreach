@@ -103,10 +103,10 @@ This can be tested in a number of different environments such as ARC-AGI-3 and t
 
 ## Why study this?
 
-This would, we hope, lead to a more general theory of intelligence.
+Studying how LLMs and humans reason would, we hope, lead to a more general theory of intelligence.
 
 
-This would also aid explainability research as LLMs and advanced AI gets deployed in mission critical areas such as healthcare, robotics, home automation, etc.
+Competence is ultimately linked to _explainability_. This would also aid explainability research as LLMs and advanced AI gets deployed in mission critical areas such as healthcare, robotics, home automation, etc.
 
 
 ## References
