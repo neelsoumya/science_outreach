@@ -98,7 +98,15 @@ This can be tested in a number of different environments such as ARC-AGI-3 and t
 ## Mutate tasks to probe competence
 
 
+
 ## Towards a more rigorous definition of competence
+
+There maybe different levels of competence.
+
+
+## Machines might reason in different ways
+
+Machines might reason in different ways compared to humans. We need to be open to these `non-human` like ways of reasoning. This is where we also may need new words (_neologisms_) to describe this new kind of reasoning.
 
 
 ## Why study this?
