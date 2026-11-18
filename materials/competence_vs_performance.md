@@ -77,14 +77,19 @@ Explanations are like _models_. All of them might be wrong, but some are useful.
 >Explanations are made, not found (Lombrazo explains in her book [1])
 
 
-## Species fair comparisons of LLMs and humans
+## `Species fair` comparisons of LLMs and humans
+
+- How do we create `species fair` or `species neutral` comparisons of humans and machines?
 
 - New tests and benchmarks may be required
 
-For example, LLMs do not `see` like we do. So is this a fair comparison to give them the same test?
+- For example, [LLMs do not `see` like we do](https://www.pnas.org/doi/10.1073/pnas.1905334117) [2]. 
+
+- So is this a fair comparison to give them the same test?
 
 We can create a new benchmark that will test LLMs and humans on an equal footing. We can even design a new human participant study that will (for example) give humans just json strings to read (and not images).
 
+- The current state of benchmarks is represented by the following picture (where we are trying to give the same test to all species). It is like asking a 🐧 penguin, a 🦈 shark and a human the same test (climb up a 🌳 tree)
 
 
 ## Generalization capabilty as a measure of competence
