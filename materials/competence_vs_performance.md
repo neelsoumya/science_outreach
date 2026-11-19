@@ -121,6 +121,8 @@ Studying how LLMs and humans reason would, we hope, lead to a more general theor
 
 Competence is ultimately linked to _explainability_. This would also aid explainability research as LLMs and advanced AI gets deployed in mission critical areas such as healthcare, robotics, home automation, etc.
 
+Studying these problems can give us deeper insights into the fundamental nature of learning, intelligence and how we form concepts. Psychologist Michael Frank notes in his essay (_Baby steps in evaluating the capacities of large language models_) that studying statistical learners like LLMs can suggest if abstractions can arise from purely data driven learning [6].
+
 
 ## References
 
@@ -133,3 +135,5 @@ Competence is ultimately linked to _explainability_. This would also aid explain
 [4] Francois Chollet On the Measure of Intelligence
 
 [5] The Animal-AI Environment: A Virtual Laboratory for Comparative Cognition and Artificial Intelligence Research (2025). With Konstantinos Voudouris et al. Behavior Research Methods, 57(107), 1-23.
+
+[6] Michael Frank, Baby steps in evaluating the capacities of large language models
